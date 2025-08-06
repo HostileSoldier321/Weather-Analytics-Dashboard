@@ -8,6 +8,8 @@ This project visualizes and analyzes real-time weather data, including key air q
 
 ## 📸 An Overview of The Dashboard
 
+![Image Alt](https://github.com/HostileSoldier321/Weather-Analytics-Dashboard/blob/47a23206269cf3006ef9caa73bdcbad0aafa358b/Weather%20Analytics_page-0001.jpg)
+
 
 
 

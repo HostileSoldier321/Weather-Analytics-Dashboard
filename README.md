@@ -6,6 +6,11 @@ This project visualizes and analyzes real-time weather data, including key air q
 
 ---
 
+## 📸 An Overview of The Dashboard
+
+
+
+
 ## 🧠 Key Insights
 
 ### 🌤️ Weather Overview
@@ -60,30 +65,3 @@ This project visualizes and analyzes real-time weather data, including key air q
 - **Power BI** – Data visualization and dashboard creation.
 - **DAX** – Custom measures and categorization (e.g., AQI Status).
 - **Real-Time Weather API / Dataset** – Source of atmospheric data (can be extended).
-
----
-
-## 📂 Folder Structure
-```
-📁 Weather-Analytics/
-├── 📊 WeatherDashboard.pbix
-├── 📄 README.md
-├── 📸 Screenshots/
-│   └── dashboard_overview.png
-├── 📁 Data/
-│   └── sample_weather_data.csv
-└── 📄 DAX_Measures.txt
-```
-
----
-
-## 📸 Sample Visuals
-> *(Include screenshots of your Power BI dashboard in the `Screenshots` folder, and embed them in the README for better visibility.)*
-
----
-
-## 🔮 Future Improvements
-- Add **PM2.5** and other pollutant data for broader AQI analysis.
-- Implement **forecasting** for temperature and air quality using machine learning models.
-- Integrate with **maps** for geo-based weather visualizations.
-- Extend to **multi-city** comparison dashboards.
